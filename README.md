@@ -1,6 +1,6 @@
 ##Language
 
-Compare on a computer with a program ( count prime )
+Compare on a computer with a program ( count prime ) ( 24/03/2024 )
 
 
 C/C++ Time taken: 5.507 seconds ( on Windows), 5.507 seconds (on Ubuntu)
