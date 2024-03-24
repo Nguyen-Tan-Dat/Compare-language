@@ -1,0 +1,8 @@
+node test.js
+
+javac test.java
+java test
+
+go run test.go
+
+php test.php
