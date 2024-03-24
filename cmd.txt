@@ -1,3 +1,6 @@
+g++ test.cpp -o test
+./test
+
 node test.js
 
 javac test.java
@@ -5,4 +8,5 @@ java test
 
 go run test.go
 
+python test.py
 php test.php
