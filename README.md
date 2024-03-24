@@ -1,4 +1,4 @@
-#Language
+##Language
 
 Compare on a computer with a program ( count prime )
 
@@ -25,7 +25,7 @@ PHP Time taken: 236.952 seconds
 Ruby Time taken: 278.889 seconds
 
 
-Database
+##Database
 
 PostgreSQL 73ms
 
